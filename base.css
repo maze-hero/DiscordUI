@@ -7,8 +7,8 @@
 }
 
 :root {
-    --version: "Wizard v1-117"; /* 0-00 */
-    --currentVersion: "Discord" var(--version);
+    --version: " v1-117"; /* 0-00 */
+    --currentVersion: " Discord" var(--version);
     /* MAIN VARIABLES */
     --AppName: "Discord";
     --Watermark: "Mazehero";
