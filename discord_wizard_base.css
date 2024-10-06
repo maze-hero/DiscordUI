@@ -7,11 +7,11 @@
 }
 
 :root {
-    --version: "1-117"; /* 0-00 */
-    --currentVersion: "WizardUI v" var(--version);
+    --version: "Wizard v1-117"; /* 0-00 */
+    --currentVersion: "Discord" var(--version);
     /* MAIN VARIABLES */
-    --AppName: "DISCORD";
-    --Watermark: "WizardUI";
+    --AppName: "Discord";
+    --Watermark: "Mazehero";
     --font: 'Inter', 'emoji', sans-serif;
     --Text: rgb(255, 255, 255);
     --logo: url(https://goldenlys.github.io/WizardUI/images/home.png);
