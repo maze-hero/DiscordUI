@@ -1,7 +1,7 @@
 @import url("https://goldenlys.github.io/WizardUI/addons/EvenMoreColors/selectors.css");
 
 @keyframes RGB_TEXT {
-	color: var(--Primary
+	color: var(--Primary)
 }
 
 @-webkit-keyframes RGB_TEXT {
