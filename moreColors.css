@@ -1,0 +1,19 @@
+@import url("https://goldenlys.github.io/WizardUI/addons/EvenMoreColors/selectors.css");
+
+@keyframes RGB_TEXT {
+	color: var(--Primary
+}
+
+@-webkit-keyframes RGB_TEXT {
+	color: var(--Primary)
+}
+
+@keyframes RGB_BG {
+	background-color: var(--Primary);
+	background-image: var(--Primary)
+}
+
+@-webkit-keyframes RGB_BG {
+	background-color: var(--Primary);
+	background-image: var(--Primary)
+}
